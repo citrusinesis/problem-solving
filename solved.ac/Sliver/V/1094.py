@@ -1,0 +1,1 @@
+print(format(int(input()), 'b').count('1')) # Bit Masking
